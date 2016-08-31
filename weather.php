@@ -36,8 +36,8 @@
                     
                     <div class="form-group">
                         
-                        <input type="text" class="form-control" id="city" name="city" />
-                        <button type="button" class="btn btn-success btn-lg" id="getWeather" placeholder="New York, Chicago, Philadelpia">Get Weather</button>
+                        <input type="text" class="form-control" id="city" name="city" placeholder="New York, Chicago, Philadelpia" />
+                        <button type="button" class="btn btn-success btn-lg" id="getWeather">Get Weather</button>
                     </div>
                     
                 </form>
